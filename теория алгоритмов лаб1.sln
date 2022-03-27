@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "теория алгоритмов лаб1", "теория алгоритмов лаб1\теория алгоритмов лаб1.vcxproj", "{0904A296-4443-4DCE-935C-ED592BCA6DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Debug|x64.ActiveCfg = Debug|x64
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Debug|x64.Build.0 = Debug|x64
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Debug|x86.Build.0 = Debug|Win32
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Release|x64.ActiveCfg = Release|x64
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Release|x64.Build.0 = Release|x64
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Release|x86.ActiveCfg = Release|Win32
+		{0904A296-4443-4DCE-935C-ED592BCA6DF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1379F2F-A70F-457F-B96A-CB7FD1AFA163}
+	EndGlobalSection
+EndGlobal
